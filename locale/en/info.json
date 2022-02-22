@@ -1,0 +1,71 @@
+{
+  "language-name": "English",
+  "font": {
+    "comic-sans": [
+      "__more-fonts__/fonts/Comic Sans MS.ttf"
+    ],
+    "comic-sans-bold": [
+      "__more-fonts__/fonts/Comic Sans MS Bold.ttf"
+    ],
+    "papyrus": [
+      "__more-fonts__/fonts/Papyrus-Condensed-01.ttf"
+    ],
+    "papyrus-bold": [
+      "__more-fonts__/fonts/Papyrus-02.ttf"
+    ],
+    "chalkboard": [
+      "__more-fonts__/fonts/Chalkboard-01.ttf"
+    ],
+    "chalkboard-bold": [
+      "__more-fonts__/fonts/Chalkboard-Bold-02.ttf"
+    ],
+    "times-new-roman": [
+      "__more-fonts__/fonts/Times New Roman.ttf"
+    ],
+    "times-new-roman-bold": [
+      "__more-fonts__/fonts/Times New Roman Bold.ttf"
+    ],
+    "arial": [
+      "__more-fonts__/fonts/Arial Unicode.ttf"
+    ],
+    "arial-bold": [
+      "__more-fonts__/fonts/Arial Bold.ttf"
+    ],
+    "courier-new": [
+      "__more-fonts__/fonts/Courier New.ttf"
+    ],
+    "courier-new-bold": [
+      "__more-fonts__/fonts/Courier New Bold.ttf"
+    ],
+    "copperplate": [
+      "__more-fonts__/fonts/Copperplate-01.ttf"
+    ],
+    "copperplate-bold": [
+      "__more-fonts__/fonts/Copperplate-Bold-03.ttf"
+    ],
+    "ubuntu": [
+      "__more-fonts__/fonts/Ubuntu-Regular.ttf"
+    ],
+    "ubuntu-semibold": [
+      "__more-fonts__/fonts/Ubuntu-Medium.ttf"
+    ],
+    "ubuntu-bold": [
+      "__more-fonts__/fonts/Ubuntu-Bold.ttf"
+    ],
+    "libre-baskerville": [
+      "__more-fonts__/fonts/LibreBaskerville-Regular.ttf"
+    ],
+    "libre-baskerville-bold": [
+      "__more-fonts__/fonts/LibreBaskerville-Bold.ttf"
+    ],
+    "josefin-sans": [
+      "__more-fonts__/fonts/JosefinSans-Regular.ttf"
+    ],
+    "josefin-sans-semibold": [
+      "__more-fonts__/fonts/JosefinSans-SemiBold.ttf"
+    ],
+    "josefin-sans-bold": [
+      "__more-fonts__/fonts/JosefinSans-Bold.ttf"
+    ]
+  }
+}
