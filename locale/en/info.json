@@ -2,70 +2,154 @@
   "language-name": "English",
   "font": {
     "comic-sans": [
-      "__more-fonts__/fonts/Comic Sans MS.ttf"
+      "__more-fonts__/fonts/comic_sans/1_comic_sans.ttf"
+    ],
+    "comic-sans-semibold": [
+      "__more-fonts__/fonts/comic_sans/2_comic_sans_semibold.ttf"
     ],
     "comic-sans-bold": [
-      "__more-fonts__/fonts/Comic Sans MS Bold.ttf"
+      "__more-fonts__/fonts/comic_sans/3_comic_sans_bold.ttf"
     ],
     "papyrus": [
-      "__more-fonts__/fonts/Papyrus-Condensed-01.ttf"
+      "__more-fonts__/fonts/papyrus/1_papyrus.ttf"
+    ],
+    "papyrus-semibold": [
+      "__more-fonts__/fonts/papyrus/2_papyrus_semibold.ttf"
     ],
     "papyrus-bold": [
-      "__more-fonts__/fonts/Papyrus-02.ttf"
+      "__more-fonts__/fonts/papyrus/3_papyrus_bold.ttf"
+    ],
+    "helvetica": [
+      "__more-fonts__/fonts/helvetica/1_helvetica.ttf"
+    ],
+    "helvetica-semibold": [
+      "__more-fonts__/fonts/helvetica/2_helvetica_semibold.ttf"
+    ],
+    "helvetica-bold": [
+      "__more-fonts__/fonts/helvetica/3_helvetica_bold.ttf"
     ],
     "chalkboard": [
-      "__more-fonts__/fonts/Chalkboard-01.ttf"
+      "__more-fonts__/fonts/chalkboard/1_chalkboard.ttf"
     ],
     "chalkboard-bold": [
-      "__more-fonts__/fonts/Chalkboard-Bold-02.ttf"
+      "__more-fonts__/fonts/chalkboard/3_chalkboard_bold.ttf"
     ],
     "times-new-roman": [
-      "__more-fonts__/fonts/Times New Roman.ttf"
+      "__more-fonts__/fonts/times_new_roman/1_times_new_roman.ttf"
+    ],
+    "times-new-roman-semibold": [
+      "__more-fonts__/fonts/times_new_roman/2_times_new_roman_semibold.ttf"
     ],
     "times-new-roman-bold": [
-      "__more-fonts__/fonts/Times New Roman Bold.ttf"
+      "__more-fonts__/fonts/times_new_roman/3_times_new_roman_bold.ttf"
     ],
     "arial": [
-      "__more-fonts__/fonts/Arial Unicode.ttf"
+      "__more-fonts__/fonts/arial/1_arial.ttf"
+    ],
+    "arial-semibold": [
+      "__more-fonts__/fonts/arial/2_arial_semibold.ttf"
     ],
     "arial-bold": [
-      "__more-fonts__/fonts/Arial Bold.ttf"
+      "__more-fonts__/fonts/arial/3_arial_bold.ttf"
     ],
     "courier-new": [
-      "__more-fonts__/fonts/Courier New.ttf"
+      "__more-fonts__/fonts/courier_new/1_courier_new.ttf"
+    ],
+    "courier-new-semibold": [
+      "__more-fonts__/fonts/courier_new/2_courier_new_semibold.ttf"
     ],
     "courier-new-bold": [
-      "__more-fonts__/fonts/Courier New Bold.ttf"
+      "__more-fonts__/fonts/courier_new/3_courier_new_bold.ttf"
     ],
     "copperplate": [
-      "__more-fonts__/fonts/Copperplate-01.ttf"
+      "__more-fonts__/fonts/copperplate/1_copperplate.ttf"
+    ],
+    "copperplate-semibold": [
+      "__more-fonts__/fonts/copperplate/2_copperplate_semibold.ttf"
     ],
     "copperplate-bold": [
-      "__more-fonts__/fonts/Copperplate-Bold-03.ttf"
+      "__more-fonts__/fonts/copperplate/3_copperplate_bold.ttf"
     ],
     "ubuntu": [
-      "__more-fonts__/fonts/Ubuntu-Regular.ttf"
+      "__more-fonts__/fonts/ubuntu/1_ubuntu.ttf"
     ],
     "ubuntu-semibold": [
-      "__more-fonts__/fonts/Ubuntu-Medium.ttf"
+      "__more-fonts__/fonts/ubuntu/2_ubuntu_semibold.ttf"
     ],
     "ubuntu-bold": [
-      "__more-fonts__/fonts/Ubuntu-Bold.ttf"
+      "__more-fonts__/fonts/ubuntu/3_ubuntu_bold.ttf"
     ],
     "libre-baskerville": [
-      "__more-fonts__/fonts/LibreBaskerville-Regular.ttf"
+      "__more-fonts__/fonts/libre_baskerville/1_libre_baskerville.ttf"
+    ],
+    "libre-baskerville-semibold": [
+      "__more-fonts__/fonts/libre_baskerville/2_libre_baskerville_semibold.ttf"
     ],
     "libre-baskerville-bold": [
-      "__more-fonts__/fonts/LibreBaskerville-Bold.ttf"
+      "__more-fonts__/fonts/libre_baskerville/3_libre_baskerville_bold.ttf"
     ],
     "josefin-sans": [
-      "__more-fonts__/fonts/JosefinSans-Regular.ttf"
+      "__more-fonts__/fonts/josefin_sans/1_josefin_sans.ttf"
     ],
     "josefin-sans-semibold": [
-      "__more-fonts__/fonts/JosefinSans-SemiBold.ttf"
+      "__more-fonts__/fonts/josefin_sans/2_josefin_sans_semibold.ttf"
     ],
     "josefin-sans-bold": [
-      "__more-fonts__/fonts/JosefinSans-Bold.ttf"
+      "__more-fonts__/fonts/josefin_sans/3_josefin_sans_bold.ttf"
+    ],
+    "noteworthy": [
+      "__more-fonts__/fonts/noteworthy/1_noteworthy.ttf"
+    ],
+    "noteworthy-semibold": [
+      "__more-fonts__/fonts/noteworthy/2_noteworthy_semibold.ttf"
+    ],
+    "noteworthy-bold": [
+      "__more-fonts__/fonts/noteworthy/3_noteworthy_bold.ttf"
+    ],
+    "olympic-carrier": [
+      "__more-fonts__/fonts/olympic_carrier/1_olympic_carrier.ttf"
+    ],
+    "olympic-carrier-bold": [
+      "__more-fonts__/fonts/olympic_carrier/4_olympic_carrier_italic.ttf"
+    ],
+    "i-miss-your-kiss": [
+      "__more-fonts__/fonts/i_miss_your_kiss/1_i_miss_your_kiss.ttf"
+    ],
+    "i-miss-your-kiss-semibold": [
+      "__more-fonts__/fonts/i_miss_your_kiss/2_i_miss_your_kiss_semibold.ttf"
+    ],
+    "i-miss-your-kiss-bold": [
+      "__more-fonts__/fonts/i_miss_your_kiss/3_i_miss_your_kiss_bold.ttf"
+    ],
+    "wingdings": [
+      "__more-fonts__/fonts/wingdings/5_wingdings.ttf"
+    ],
+    "space-age": [
+      "__more-fonts__/fonts/space_age/1_space_age.ttf"
+    ],
+    "space-age-semibold": [
+      "__more-fonts__/fonts/space_age/2_space_age_semibold.ttf"
+    ],
+    "space-age-bold": [
+      "__more-fonts__/fonts/space_age/3_space_age_bold.ttf"
+    ],
+    "heroes-assemble": [
+      "__more-fonts__/fonts/heroes_assemble/1_heroes_assemble.ttf"
+    ],
+    "heroes-assemble-semibold": [
+      "__more-fonts__/fonts/heroes_assemble/2_heroes_assemble_semibold.ttf"
+    ],
+    "heroes-assemble-bold": [
+      "__more-fonts__/fonts/heroes_assemble/3_heroes_assemble_bold.ttf"
+    ],
+    "powerpuff-girls": [
+      "__more-fonts__/fonts/powerpuff_girls/1_powerpuff_girls.ttf"
+    ],
+    "powerpuff-girls-semibold": [
+      "__more-fonts__/fonts/powerpuff_girls/2_powerpuff_girls_semibold.ttf"
+    ],
+    "powerpuff-girls-bold": [
+      "__more-fonts__/fonts/powerpuff_girls/3_powerpuff_girls_bold.ttf"
     ]
   }
 }

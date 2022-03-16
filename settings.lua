@@ -8,17 +8,23 @@ data:extend({
       "default",
       "comic-sans",
       "papyrus",
-      -- "chalkduster",
+      "helvetica",
       "times-new-roman",
-      -- "webdings",
-      -- "wingdings",
       "arial",
       "courier-new",
       "copperplate",
       "chalkboard",
       "ubuntu",
       "libre-baskerville",
-      "josefin-sans"
+      "josefin-sans",
+      "noteworthy",
+      -- "jurassic-park",
+      "olympic-carrier",
+      "i-miss-your-kiss",
+      "wingdings",
+      "space-age",
+      "heroes-assemble",
+      "powerpuff-girls"
     }
   }
 })

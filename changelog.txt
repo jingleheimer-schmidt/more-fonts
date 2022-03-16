@@ -1,5 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 13MAR2022
+  Changes:
+    - fixed error when using wingdings font
+    - removed an unused font file
+
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
-Date: Never
+Date: 13MAR2022
   Changes:
     - initial release on the mod portal

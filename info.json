@@ -1,11 +1,11 @@
 {
   "name": "more-fonts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "More Fonts",
   "author": "asher_sky",
   "contact": "",
   "homepage": "",
-  "description": "",
+  "description": "Adds a startup setting to change the Factorio font. \nIncludes Comic Sans, Papyrus, Times New Roman, Helvetica, Wingdings, and many more. \nUse at your own risk >:)",
   "factorio_version": "1.1",
   "dependencies": [
 	"base"
