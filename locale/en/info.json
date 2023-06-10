@@ -150,6 +150,15 @@
     ],
     "powerpuff-girls-bold": [
       "__more-fonts__/fonts/powerpuff_girls/3_powerpuff_girls_bold.ttf"
+    ],
+    "atkinson-hyperlegible": [
+      "__more-fonts__/fonts/atkinson_hyperlegible/Atkinson-Hyperlegible-Regular-102.ttf"
+    ],
+    "atkinson-hyperlegible-semibold": [
+      "__more-fonts__/fonts/atkinson_hyperlegible/Atkinson-Hyperlegible-Italic-102.ttf"
+    ],
+    "atkinson-hyperlegible-bold": [
+      "__more-fonts__/fonts/atkinson_hyperlegible/Atkinson-Hyperlegible-Bold-102.ttf"
     ]
   }
 }

@@ -6,6 +6,7 @@ data:extend({
     default_value = "default",
     allowed_values = {
       "default",
+      "atkinson-hyperlegible",
       "comic-sans",
       "papyrus",
       "helvetica",
@@ -24,7 +25,7 @@ data:extend({
       "wingdings",
       "space-age",
       "heroes-assemble",
-      "powerpuff-girls"
+      "powerpuff-girls",
     }
   }
 })
