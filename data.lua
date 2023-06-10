@@ -15,6 +15,7 @@ local semibold_available = {
   ["space-age"] = true,
   ["heroes-assemble"] = true,
   ["powerpuff-girls"] = true,
+  ["atkinson-hyperlegible"] = false,
 }
 local bold_available = {
   ["ubuntu"] = true,
@@ -34,6 +35,7 @@ local bold_available = {
   ["space-age"] = true,
   ["heroes-assemble"] = true,
   ["powerpuff-girls"] = true,
+  ["atkinson-hyperlegible"] = true,
 }
 local size_adjustment = {
   ["default"] = 0,
@@ -55,6 +57,7 @@ local size_adjustment = {
   ["heroes-assemble"] = 0,
   ["powerpuff-girls"] = 0,
   ["wingdings"] = 0,
+  ["atkinson-hyperlegible"] = 1,
 }
 
 local original_default_dropdown = table.deepcopy(data.raw.font["default-dropdown"])
@@ -221,6 +224,12 @@ data:extend({
     type = "font",
     name = "powerpuff-girls-dropdown",
     from = "powerpuff-girls",
+    size = 14
+  },
+  {
+    type = "font",
+    name = "atkinson-hyperlegible-dropdown",
+    from = "atkinson-hyperlegible",
     size = 14
   }
 })
