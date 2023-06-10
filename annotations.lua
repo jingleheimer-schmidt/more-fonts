@@ -1,0 +1,9 @@
+---@class Font
+---@field from string
+---@field name string
+---@field size number -- technically int32
+---@field type string
+---@field border boolean?
+---@field border_color Color?
+---@field filtered boolean?
+---@field spacing float?
