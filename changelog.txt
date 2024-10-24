@@ -2,7 +2,7 @@
 Version: 0.0.4
 Date: 23OCT2024
   Changes:
-    - added support for Facotrio 2.0
+    - added support for Factorio 2.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 09JUN2023
